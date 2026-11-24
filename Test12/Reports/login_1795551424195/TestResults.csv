@@ -1,0 +1,6 @@
+Test Case,Status
+testCase1_ValidLogin_RedirectsToInventory,PASS
+testCase2_LockedOutUser_ShowsLockedError,PASS
+testCase3_EmptyFields_ShowsUsernameRequiredError,PASS
+testCase4_EmptyPassword_ShowsPasswordRequiredError,PASS
+testCase5_EnterKeySubmit_RedirectsToInventory,PASS

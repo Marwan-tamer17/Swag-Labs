@@ -1,0 +1,7 @@
+Test Case,Status
+checkout_opens_information_page,PASS
+continue_shopping_keeps_remove_buttons,PASS
+five_products_badge_5,PASS
+open_cart_page,PASS
+product_details_match_home_page,PASS
+remove_one_product_badge_4,PASS

@@ -1,0 +1,7 @@
+Test Case,Status
+Logout,PASS
+addToCart,PASS
+openProduct,PASS
+removeFromCart,PASS
+sorting,PASS
+validLogin,PASS

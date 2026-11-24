@@ -1,0 +1,7 @@
+Test Case,Status
+login_HomePage_Cart,PASS
+dynamicCatalogue_Cart,PASS
+dynamicCatalogue_Navigation_Cart,PASS
+homePage_Cart_Checkout,PASS
+cart_Navigation_Checkout,PASS
+login_Cart_Navigation_Logout,PASS
